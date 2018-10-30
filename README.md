@@ -27,8 +27,6 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 * https://startbootstrap.com
 * https://twitter.com/SBootstrap
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
 * http://davidmiller.io
 * https://twitter.com/davidmillerskt
 * https://github.com/davidtmiller
