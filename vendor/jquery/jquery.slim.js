@@ -4,9 +4,7 @@
  *
  * Includes Sizzle.js
  * https://sizzlejs.com/
- *
- *
- * Date: 2018-01-20T17:24Z
+ 
  */
 ( function( global, factory ) {
 
