@@ -7,9 +7,9 @@
  *
 
  * Released under the MIT license
- * https://jquery.org/license
+ * https:/
  *
- * Date
+
  */
 ( function( global, factory ) {
 
