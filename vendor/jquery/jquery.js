@@ -2,7 +2,7 @@
  * jQuery JavaScript Library v3.3.1
  * https://jquery.com/
  *
- * Includes Sizzle.js
+ * Includes Si
  * https://sizzlejs.com/
  *
 
